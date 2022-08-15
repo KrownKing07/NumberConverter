@@ -1,2 +1,2 @@
 # NumberConverter
-Mit dem NumberConverter kann man natürliche Zahlen in römische Zahlen umwandeln.
+NumberConverter is a simple python code that translates natural numbers into roman numbers.
